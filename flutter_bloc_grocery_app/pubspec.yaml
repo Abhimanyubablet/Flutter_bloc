@@ -32,6 +32,7 @@ dependencies:
     sdk: flutter
   bloc:
   flutter_bloc:
+  http: ^1.2.2
 
 
 
